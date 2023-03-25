@@ -41,8 +41,8 @@ return (
   <header className="App-header">
   <form onSubmit={(e) => {handleSubmit(e)}}>
   {}
-  <h2> Simple form using react(CB131)</h2>
-  <h3> Signup Form </h3>
+  <h2> FORM(CB141)</h2>
+  <h3> LOGIN</h3>
     <label >
     Name:
     </label><br/>
